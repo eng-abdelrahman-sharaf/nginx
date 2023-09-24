@@ -1,0 +1,10 @@
+2023/09/24 18:40:14 [emerg] 27728#32816: unknown "exa880" variable
+2023/09/24 18:43:17 [notice] 33068#19464: signal process started
+2023/09/24 18:43:17 [error] 33068#19464: CreateFile() "C:\Users\ADMIN\Downloads\Compressed\nginx-1.24.0\nginx-1.24.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2023/09/24 18:44:21 [error] 7412#20696: *1 CreateFile() "C:\Users\ADMIN\Downloads\Compressed\nginx-1.24.0\nginx-1.24.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2023/09/24 18:44:41 [notice] 13848#27688: signal process started
+2023/09/24 18:45:06 [notice] 25144#6300: signal process started
+2023/09/24 18:45:10 [error] 18752#30812: *3 CreateFile() "C:\Users\ADMIN\Downloads\Compressed\nginx-1.24.0\nginx-1.24.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:900", referrer: "http://localhost:900/"
+2023/09/24 18:45:43 [notice] 13336#32992: signal process started
+2023/09/24 18:46:03 [error] 28768#20972: *5 CreateFile() "C:\Users\ADMIN\Downloads\Compressed\nginx-1.24.0\nginx-1.24.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:452", referrer: "http://localhost:452/"
+2023/09/24 18:47:33 [notice] 21440#17260: signal process started
